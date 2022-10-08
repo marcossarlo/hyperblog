@@ -1,0 +1,29 @@
+* commit 95a4cab2bab8fd4b157c93a13b066b0ccb504cfe
+| Author: marcossarlo <msl.net@gmail.com>
+| Date:   Wed Oct 5 20:49:15 2022 -0500
+| 
+|     Se puso fondo negro y se agregó un nuevo parrafo
+| 
+* commit 74b1c49e7d2816b402e5956e950cd6a07b6b1ded
+| Author: marcossarlo <msl.net@gmail.com>
+| Date:   Mon Oct 3 22:33:51 2022 -0500
+| 
+|     Arranco mi proyecto real con HTML y CSS
+| 
+* commit dccba4232ba9166d2dd2a34ee5d3c2b3c968539c
+| Author: marcossarlo <msl.net@gmail.com>
+| Date:   Mon Oct 3 22:23:47 2022 -0500
+| 
+|     reconfirmando Cambios para reflejar la edad correcta de Freddy
+| 
+* commit f2fce41270c744132b471976e25871879341f9b7
+| Author: marcossarlo <msl.net@gmail.com>
+| Date:   Tue Sep 27 22:45:08 2022 -0500
+| 
+|     Cambios al archivo de historia para reflejar la edad correcta de Freddy
+| 
+* commit 239de217f6bfb1fb88edfcf6c6bc2000d447b8a9
+  Author: marcossarlo <msl.net@gmail.com>
+  Date:   Tue Sep 27 22:40:28 2022 -0500
+  
+      Este es el 1er. commit de este archivo
